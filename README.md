@@ -16,8 +16,8 @@ Your users should be able to:
 - See hover states for all interactive elements on the page
 
 ## Links
-- [live site]()
-- [solution]()
+- [live site](https://aquamarine-alfajores-09b491.netlify.app/)
+- [solution](https://www.frontendmentor.io/solutions/ip-address-tracker-built-with-react-and-tailwind-RAGtc8oVnu)
 
 ## Built With
 - React
